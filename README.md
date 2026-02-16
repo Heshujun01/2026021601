@@ -1,2 +1,2 @@
 # 2026021601
-access_resistance_project: Pore Blocking Ratio Calculation and Current Time-Domain Plot — using G5P6 as an example.
+access_resistance_project: Pore Blocking Ratio Calculation and Current Time-Domain Plot — using G6P5 as an example.
